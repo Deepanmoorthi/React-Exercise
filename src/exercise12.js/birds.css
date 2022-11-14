@@ -1,0 +1,61 @@
+.h1{
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-image: linear-gradient( rgb(224, 84, 3),#52147c);
+    border-radius: 8px;
+}
+.p{
+    color: black;
+    margin: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: justify;
+    font-size: 22px;
+    font-weight: 500;
+    border: 1px solid rgb(235, 226, 226);
+    padding: 20px;
+    background-color: rgb(240, 192, 131);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+img{
+    width: 800px;
+    height: 400px;
+    border: 2px solid rgb(230, 224, 218);
+    margin-right: 50%;
+    border-radius: 10px;
+    
+}
+.select{
+    
+    margin-top: 0%;
+    margin-left: 30%;
+    background-color: rgb(114, 139, 70);
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 8px;
+    display: inline-block;
+}
+.button{
+    
+    
+    margin-left: 30%;
+    background-color: black;
+    color:white;
+    font-size: 22px;
+    padding: 15px;
+    width: 200px;
+    border-radius: 8px;
+}
+.home{
+    display: flex;
+    margin: 5%;
+}
+.subhome{
+    text-align: center;
+    margin-left:-50px;
+}

@@ -1,0 +1,19 @@
+.butt{
+    /* width: 300px; */
+    padding: 10px;
+    background-color: black;
+    font-size: 22px;
+    margin: 6px;
+    display: inline-block;
+    color: rgb(16, 71, 223);
+}
+.list ul li{
+    text-decoration: none;
+
+}
+.count{
+    color: rgb(16, 71, 223);
+}
+.list{
+    color: rgb(16, 71, 223);   
+}
